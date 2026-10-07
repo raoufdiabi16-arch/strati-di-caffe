@@ -1,0 +1,2 @@
+{ "compilerOptions": { "target": "ES2022", "module": "ESNext", "moduleResolution": "Bundler", "strict": true, "noEmit": true, "allowImportingTsExtensions": true, "lib": ["ES2022", "DOM"], "skipLibCheck": true, "types": [] },
+  "include": ["supabase/functions/**/handler.ts", "supabase/functions/_shared/logic.ts"] }
